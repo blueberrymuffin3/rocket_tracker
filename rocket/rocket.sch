@@ -908,12 +908,12 @@ F 5 "C24112" H 6100 4850 50  0001 C CNN "JLCPCB #"
 	1    0    0    -1  
 $EndComp
 $Comp
-L custom:NEO-6M_module U3
+L rocket_tracker:NEO-6M_module U3
 U 1 1 5EF24A8A
 P 5500 2700
 F 0 "U3" H 5780 2721 50  0000 L CNN
 F 1 "NEO-6M_module" H 5780 2630 50  0000 L CNN
-F 2 "custom:NEO-6M_module" H 5950 3150 50  0001 C CNN
+F 2 "rocket_tracker:NEO-6M_module" H 5950 3150 50  0001 C CNN
 F 3 "" H 5500 2700 50  0001 C CNN
 F 4 "DIGIKEY" H 5500 2700 50  0001 C CNN "Supplier"
 F 5 "" H 5500 2700 50  0001 C CNN "DIGIKEY #"
